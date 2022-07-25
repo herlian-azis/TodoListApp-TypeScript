@@ -1,0 +1,34 @@
+{
+  "collection": [
+    {
+      "title": "belajar mandiri",
+      "description": "install react native",
+      "date": "25/07/2022",
+      "id": 2
+    },
+    {
+      "title": "sarapan pagi",
+      "description": "bubur ayam",
+      "date": "25/07/2022",
+      "id": 1
+    },
+    {
+      "title": "nonton youtube",
+      "description": "dota2",
+      "date": "25/07/2022",
+      "id": 10
+    },
+    {
+      "title": "tidur siang",
+      "description": "freeee",
+      "date": "25/07/2022",
+      "id": 11
+    },
+    {
+      "title": "Interview user",
+      "description": "company jakarta",
+      "date": "25/07/2022",
+      "id": 12
+    }
+  ]
+}
